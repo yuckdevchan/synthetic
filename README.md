@@ -2,7 +2,7 @@
 
 Synthetic is a fork of Celluloid which makes it easier and more suited to playing Twitch streams, VODs, Clips, YouTube Videos and more.
 
-![Screenshot](gnome-twitch.svg)
+![Screenshot](https://raw.githubusercontent.com/yuckdevchan/synthetic/master/src/gnome-twitch.svg)
 
 ## Dependencies
 
