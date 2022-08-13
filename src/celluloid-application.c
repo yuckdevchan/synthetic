@@ -473,7 +473,7 @@ command_line_handler(	GApplication *gapp,
 static void
 startup_handler(GApplication *gapp, gpointer data)
 {
-	g_set_application_name(_("Celluloid"));
+	g_set_application_name(_("Twitch Player"));
 	gtk_window_set_default_icon_name(ICON_NAME);
 
 	bindtextdomain(GETTEXT_PACKAGE, PACKAGE_LOCALEDIR);
