@@ -1,7 +1,7 @@
 AC_PREREQ([2.69])
 
 AC_INIT(	[celluloid],
-		[0.23],
+		[0.24],
 		[http://github.com/celluloid-player/celluloid/issues],
 		[celluloid],
 		[http://github.com/celluloid/celluloid] )
@@ -115,7 +115,7 @@ AC_OUTPUT
 
 echo "
 ################################################################################
-#         THE AUTOMAKE BUILD SCRIPT IS DEPRECATED. USE MESON INSTEAD.          #
+#    THE AUTOMAKE BUILD SCRIPT IS DEPRECATED. CONSIDER USING MESON INSTEAD.    #
 ################################################################################
 
 	$PACKAGE $VERSION
